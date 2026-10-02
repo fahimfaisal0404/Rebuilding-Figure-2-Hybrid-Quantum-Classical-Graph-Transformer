@@ -28,3 +28,6 @@ Aktar, Bartschi, Badawy, and Eidenbenz,
 
 
 <img width="2640" height="889" alt="image" src="https://github.com/user-attachments/assets/cac3ea5a-145d-4a55-b841-5e179c89709c" />
+
+<img width="900" height="630" alt="image" src="https://github.com/user-attachments/assets/fb97383e-2d9a-4d70-b8fd-7a246939f218" />
+
